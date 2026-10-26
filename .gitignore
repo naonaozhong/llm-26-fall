@@ -30,6 +30,8 @@ slides/.checks/
 .env
 .env.*
 !.env.example
+/mutagen.yml
+/mutagen.yml.lock
 
 # Editors and operating systems
 .DS_Store
